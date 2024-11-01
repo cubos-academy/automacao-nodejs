@@ -4,8 +4,8 @@ Vamos desenvolver um projeto em nodejs para enviar notificações no WhatsApp pa
 
 ## Tarefas
 - [x] Ler a planilha com as tarefas
-- [ ] Verificar Dia da semana e horário
-- [ ] Enviar uma mensagem no WhatsApp avisando que é hora da tarefa
+- [x] Verificar Dia da semana e horário
+- [x] Enviar uma mensagem no WhatsApp avisando que é hora da tarefa
 
 ## 0 - Configurar o Projeto
 
